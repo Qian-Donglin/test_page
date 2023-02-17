@@ -20,5 +20,5 @@ YouTubeチャンネル: [あり](https://www.youtube.com/@user-oy5eb8rl7v/videos
 
 [衆議院議員・京都3区](https://cdp-japan.jp/member/3020/%E6%B3%89%E5%81%A5%E5%A4%AA)
 
-こちらの[詳細ページ](/featured_member/izumi_kenta.md)に特集あります。そちらをご覧ください。
+こちらの[詳細ページ](featured_member/izumi_kenta.md)に特集あります。そちらをご覧ください。
 
